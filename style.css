@@ -3,6 +3,10 @@ color: red;
 text-align: center;
 }
 
+body{
+background-color: brown;
+}
+
 h1 {
 background-color: darkcyan;
 font-size: 70px;
