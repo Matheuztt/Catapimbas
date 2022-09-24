@@ -4,8 +4,8 @@ text-align: center;
 }
 
 h1 {
-text-align:initial;
+text-shadow: 0in;
 background-color: darkcyan;
-font-size: 130px;
+font-size: 100px;
 color: orange
 }
