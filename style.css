@@ -4,6 +4,7 @@ text-align: center;
 }
 
 h1 {
+text-align: start;
 background-color: darkcyan;
 font-size: 130px;
 color: orange
