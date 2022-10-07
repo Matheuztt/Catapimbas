@@ -13,3 +13,7 @@ background-color: darkcyan;
 font-size: 70px;
 color: orange
 }
+
+#dice {
+    width: 100%;
+}
