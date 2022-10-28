@@ -15,5 +15,6 @@ color: orange
 }
 
 #dice {
+    size: 32%;
     width: 85%;
 }
