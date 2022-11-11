@@ -15,7 +15,7 @@ header{
    }
    
     nav li{
-       display: inline;
+       display: inside;
        margin: 0 0 0 15px;
     }
    
