@@ -26,3 +26,9 @@ header{
        font-size: 22px;
        text-decoration: none;
     }
+
+    h1 {
+      background-color: darkcyan;
+      font-size: 70px;
+      color: orange;
+    }
