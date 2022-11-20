@@ -50,6 +50,8 @@ text-align: center;
 width: 70%;
 }
 
- h1 {
+h1 {
+font-size: small;
+color: white;
 text-align: right;
 }
