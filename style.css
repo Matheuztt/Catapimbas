@@ -36,13 +36,6 @@ body{
 background-color: black;
 }
 
-h1 {
-font-style: italic;
-background-color: grey;
-font-size: 70px;
-color: red;
-}
-
 #dice {
     text-align: end;
     width: 60%;
@@ -57,6 +50,6 @@ text-align: center;
 width: 70%;
 }
 
-p {
+ h1 {
 text-align: right;
 }
